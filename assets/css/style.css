@@ -205,6 +205,10 @@ h6 {
   align-items: center;
 }
 
+b {
+  color:#18d26e
+}
+
 .navbar li {
   position: relative;
 }
